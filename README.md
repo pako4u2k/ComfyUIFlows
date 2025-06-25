@@ -1,2 +1,6 @@
-# ComfyUI Flows and Custom Nodes
-My ComfyUI Custom Flows and Nodes
+# ComfyUI Flows 
+My ComfyUI Custom Flows
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
