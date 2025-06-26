@@ -6,7 +6,7 @@ Organized in Node Groups and notes every category for clarity and at the bottom 
 ## Workflows
 
 ![](https://www.wimotics.net/comfyUI/InstantIDLoraControlNet_Flow.png)
-
+## Outputs
 <img src="https://www.wimotics.net/comfyUI/ComfyUI_00129_.png" width=20% height=20%>
 <img src="https://www.wimotics.net/comfyUI/ComfyUI_00170_.png" width=30% height=30%>
 <img src="https://www.wimotics.net/comfyUI/ComfyUI_00109_.png" width=30% height=30%>
