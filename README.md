@@ -13,5 +13,7 @@ Organized the Workflow in Node Groups and with notes for every category for bett
 
 Example of a 3D Pipeline ComfyUI Workflow...
 
+## 3D Pipeline Workflow
+
 Thanks,
 Pasquale
