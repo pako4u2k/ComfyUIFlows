@@ -1,9 +1,9 @@
 # ComfyUI Workflows 
-Example of a ComfyUI Workflow mixing InstantID to preserve identity (my face from the picture), LoRa finetuned models to apply a specific style (Master Chief Halo, IronMan or Goku) and ControlNet to copy specific poses from another image (OpenPose Preprocessor and Model).
+Example of a ComfyUI Workflow mixing InstantID to preserve identity (my face from the picture), LoRA finetuned models to apply a specific style (Master Chief Halo, IronMan or Goku) and ControlNet to copy specific poses from another image (OpenPose Preprocessor and Model).
 
 Organized the Workflow in Node Groups and with notes for every category for better clarity and at the bottom some opther image outputs of the same workflow with specific LoRA filters and prompts.
 
-## LoRA dn ControlNet Workflow
+## LoRA, InstantID and ControlNet Workflow
 
 ![](https://www.wimotics.net/comfyUI/InstantIDLoraControlNet_Flow.png)
 ## Outputs
