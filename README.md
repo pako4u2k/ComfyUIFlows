@@ -3,7 +3,7 @@ Example of a ComfyUI Workflow mixing InstantID to preserve identity (my face fro
 
 Organized the Workflow in Node Groups and with notes for every category for better clarity and at the bottom some opther image outputs of the same workflow with specific LoRA filters and prompts.
 
-## First Workflow
+## LoRA dn ControlNet Workflow
 
 ![](https://www.wimotics.net/comfyUI/InstantIDLoraControlNet_Flow.png)
 ## Outputs
