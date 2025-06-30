@@ -11,9 +11,11 @@ Organized the Workflow in Node Groups and with notes for every category for bett
 <img src="https://www.wimotics.net/comfyUI/ComfyUI_00170_.png" width=30% height=30%>
 <img src="https://www.wimotics.net/comfyUI/ComfyUI_00109_.png" width=30% height=30%>
 
-Example of a 3D Pipeline ComfyUI Workflow...
+## Wan 2.1 Conistent Video Generation Workflow (Fruit Guys)
 
-## 3D Pipeline Workflow
+## 3D Pipeline Workflow (Fruit Guys continued...)
+An example 3D rendering with ComfyUI 3D Pack and Stable Fast 3D Model Nodes, using teh start image as the Dragon Fruit Ninja Guy generated from the prompt in the previous Stable Diffusion Flow.
+![](https://www.wimotics.net/comfyUI/3dPackFast3DWorkflow.png)
 
 Thanks,
 Pasquale
