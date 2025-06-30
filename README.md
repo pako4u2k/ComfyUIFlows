@@ -12,7 +12,10 @@ Organized the Workflow in Node Groups and with notes for every category for bett
 <img src="https://www.wimotics.net/comfyUI/ComfyUI_00109_.png" width=30% height=30%>
 
 ## Wan 2.1 Conistent Video Generation Workflow (Fruit Guys)
-
+First generated with Stable Diffusion the start images from Positive andf Negative Prompts and normal KSampler for the three characters (Fruit Guys).
+Then animated conistently with Wan 2.1 Models/Nodes Positive/Negative Prompts the characters as described in the following Workflow and on the web site
+here you can see the full results: https://www.wimotics.net/FruitGuys
+![](https://www.wimotics.net/comfyUI/Wan2.1Workflow.png)
 ## 3D Pipeline Workflow (Fruit Guys continued...)
 An example 3D rendering with ComfyUI 3D Pack and Stable Fast 3D Model Nodes, using teh start image as the Dragon Fruit Ninja Guy generated from the prompt in the previous Stable Diffusion Flow.
 ![](https://www.wimotics.net/comfyUI/3dPackFast3DWorkflow.png)
